@@ -2,6 +2,6 @@
 
 ### Primary Colors
 
-Ružová = `e20a90`
+Pink = `e20a90`
 
-Tmavá = `29123d`
+Dark = `29123d`
